@@ -7,7 +7,8 @@
 
 - 🤝 I’m looking for help with **internships and entry level roles**
 
-- 👨‍💻 All of my projects are available at [https://phibieroberts.github.io/Portfolio_website/](https://phibieroberts.github.io/Portfolio_website/)
+- 👨‍💻 All of my projects are available at [https://phibieroberts.github.io/Portfolio_website/](https://phibieroberts.dev)
+  
 
 - 📫 How to reach me **obajephoebe@gmail.com**
 
