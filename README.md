@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phoebe Roberts</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-- 🌱 I’m currently learning **Reactjs, TailwindCss**
+- 🌱 I’m currently learning **Nextjs, TailwindCss**
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
