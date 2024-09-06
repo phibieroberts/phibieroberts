@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Phoebe Roberts</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-- 🌱 I’m currently learning **Nextjs, TailwindCss**
+- 🌱 I’m proficient in **ReactJS, Nextjs, TailwindCss**
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
-- 🤝 I’m looking for help with **internships and entry level roles**
+- 🤝 I’m open to Front End **entry and intermediate  level roles**
 
 - 👨‍💻 All of my projects are available at [https://phibieroberts.github.io/Portfolio_website/](https://phibieroberts.dev)
   
