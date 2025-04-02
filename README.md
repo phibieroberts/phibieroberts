@@ -5,9 +5,9 @@
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
-- 🤝 I’m open to Front End **entry and intermediate  level roles**
+- 🤝 I’m open to Full time *Front-ed roles**
 
-- 👨‍💻 All of my projects are available at [https://phibieroberts.github.io/Portfolio_website/](https://phibieroberts.dev)
+- 👨‍💻 All of my projects are available at [https://phoeberoberts.netlify.app/](https://phoeberoberts.netlify.app)
   
 
 - 📫 How to reach me **obajephoebe@gmail.com**
